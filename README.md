@@ -21,7 +21,9 @@ Comprehensive experiments on four widely used RVOS benchmarks, i.e., Ref-Youtube
 We test the codes in the following environments, other versions may also be compatible:
 
 ` CUDA 11.1 `
+
 ` Python 3.7 `
+
 ` Pytorch 1.8.1 `
 
 ## Download pretrained models
@@ -30,7 +32,7 @@ We provide the pretrained model for different visual backbones.
 
 ## Data Preparation
 
-We provide the pretrained model for different visual backbones. You may download them here and put them in the directory pretrained_weights.
+We will provide the pretrained model for different visual backbones. You may download them here and put them in the directory pretrained_weights.
 
 After the organization, we expect the directory struture to be the following:
 
