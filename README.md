@@ -10,10 +10,10 @@ Comprehensive experiments on four widely used RVOS benchmarks, i.e., Ref-Youtube
 
 
 ## The proposed referring video object segmentation framework
-![](https://github.com/Sunbaoli/ProxyFormer/blob/master/mainnet.png)
+![](https://github.com/Sunbaoli/ProxyFormer/blob/master/net.pdf)
 
 ## Results
-![](https://github.com/Sunbaoli/ProxyFormer/blob/master/result1.png)
+![](https://github.com/Sunbaoli/ProxyFormer/blob/master/result1.jpg)
 
 
 
