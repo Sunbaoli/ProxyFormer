@@ -10,10 +10,10 @@ Comprehensive experiments on four widely used RVOS benchmarks, i.e., Ref-Youtube
 
 
 ## The proposed referring video object segmentation framework
-![](https://github.com/Sunbaoli/ProxyFormer/blob/main/net.pdf)
+<p align="center"><img src="network.pdf" width="800"/></p>
 
 ## Results
-![](https://github.com/Sunbaoli/ProxyFormer/blob/main/net.pdf)
+<p align="center"><img src="result1.jpg" width="800"/></p>
 
 
 
@@ -26,12 +26,15 @@ We test the codes in the following environments, other versions may also be comp
 
 ## Download pretrained models
 
+We provide the pretrained model for different visual backbones.
+
 ## Data Preparation
 
 We provide the pretrained model for different visual backbones. You may download them here and put them in the directory pretrained_weights.
 
 After the organization, we expect the directory struture to be the following:
 
+```
 ReferFormer/
 ├── data/
 │   ├── ref-youtube-vos/
