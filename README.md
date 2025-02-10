@@ -10,7 +10,7 @@ Comprehensive experiments on four widely used RVOS benchmarks, i.e., Ref-Youtube
 
 
 ## The proposed referring video object segmentation framework
-<p align="center"><img src="network.pdf" width="800"/></p>
+<p align="center"><img src="net.png" width="800"/></p>
 
 ## Results
 <p align="center"><img src="result1.jpg" width="800"/></p>
